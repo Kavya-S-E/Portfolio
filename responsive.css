@@ -1,0 +1,785 @@
+
+
+@media (min-width:900px) and (max-width:1200px)
+{
+  .main
+  {
+    padding: 20px 5% 50px;
+  }
+
+  header > h2 
+  {
+    font-size: 2rem;
+  }
+
+  /* banner  */
+  .mc1
+  {
+    font-size: 1.7rem;
+  }
+
+  .mc2
+  {
+    font-size: 2.9rem;
+  }
+
+  h1 
+  {
+    font-size: 5.6rem;
+  }
+
+  .portfolio-pic
+  {
+    height: 350px;
+  }
+
+  .pic-design
+  {
+    height: 250px;
+  }
+
+  .navigation
+  {
+    padding: 20px 5%;
+  }
+
+  .nav 
+  {
+    margin-top: -50px;
+  }
+
+  .nav-details
+  {
+    padding: 80px 5% 20px;
+    margin-top: 10px;
+  }
+
+  .details 
+  {
+    margin-top: 10px;
+  }
+
+  .pm1
+  {
+    top: 60%;
+    width: 50%;
+  }
+
+  .pm1 > a 
+  {
+    text-align: center;
+    padding: 4px 15px;
+  }
+
+  .contact1
+  {
+    width: 55%;
+  }
+}
+
+
+
+
+@media (min-width:700px) and (max-width:900px)
+{
+  .main
+  {
+    padding: 20px 3% 50px;
+  }
+
+  header > h2 
+  {
+    font-size: 1.8rem;
+  }
+
+  .nav-icons
+  {
+    width: 40%;
+  }
+
+  /* banner  */
+  .mc1
+  {
+    font-size: 1.5rem;
+  }
+
+  .mc2
+  {
+    font-size: 2.5rem;
+  }
+
+  h1 
+  {
+    font-size: 5.4rem;
+  }
+
+  .mc3
+  {
+    font-size: 0.8rem;
+    letter-spacing: 0rem;
+    word-spacing: 0rem;
+  }
+
+  .btn-hire
+  {
+    font-size: 1rem;
+  }
+
+  .portfolio-pic
+  {
+    height: 300px;
+  }
+
+  .pic-design
+  {
+    height: 200px;
+  }
+
+  /* navigation  */
+
+  .navigation
+  {
+    padding: 20px 3%;
+  }
+
+  .nav 
+  {
+    margin-top: -50px;
+  }
+
+  .nav-details
+  {
+    padding: 80px 3% 20px;
+    margin-top: 10px;
+  }
+
+  .details 
+  {
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .ab
+  {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .about-me, .skills, .projects
+  {
+    width: 100%;
+  }
+
+  .pm1
+  {
+    top: 60%;
+    width: 30%;
+  }
+
+  .pm1 > a 
+  {
+    text-align: center;
+    padding: 4px 15px;
+  }
+
+  .contact1
+  {
+    width: 75%;
+  }
+
+}
+
+
+
+@media (min-width:500px) and (max-width:700px)
+{
+  .main
+  {
+    padding: 20px 3% 50px;
+  }
+
+  header > h2 
+  {
+    font-size: 1.8rem;
+  }
+
+  .nav-icons
+  {
+    width: 55%;
+  }
+
+  /* banner  */
+  .mc1
+  {
+    font-size: 1.3rem;
+  }
+
+  .mc2
+  {
+    font-size: 2rem;
+  }
+
+  h1 
+  {
+    letter-spacing: 0.1rem;
+    font-size: 4rem;
+  }
+
+  .mc3
+  {
+    font-size: 0.6rem;
+    letter-spacing: 0rem;
+    word-spacing: 0rem;
+  }
+
+  .btn-hire
+  {
+    font-size: 0.8rem;
+    width: 40%;
+    margin-top: 5px;
+  
+  }
+
+  .portfolio-pic
+  {
+    height: 200px;
+    width: 50%;
+   
+  }
+
+  .pic-design
+  {
+    height: 150px;
+  }
+
+  /* navigation  */
+
+  .navigation
+  {
+    padding: 15px 3%;
+  }
+
+  .nav 
+  {
+    margin-top: -30px;
+    padding: 10px;
+  }
+
+  .nav-items
+  {
+    padding: 10px;
+    width: 80px;
+  }
+
+  .nav-items:hover
+{
+  width: 200px;
+}
+
+  .nav-links>i 
+  {
+    margin-left: -5px;
+    font-size: 25px;
+  }
+
+  .nav-links>p 
+  {
+    font-size: 22px;
+    margin-left: 70px;
+  }
+
+  .nav-items:hover .nav-links>p
+{
+  margin-left: 10px;
+}
+
+  .nav-details
+  {
+    padding: 80px 3% 20px;
+    margin-top: 10px;
+  }
+
+  .details 
+  {
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .ab
+  {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .about-me, .skills, .projects
+  {
+    width: 100%;
+  }
+
+  .pm1
+  {
+    top: 60%;
+    width: 30%;
+  }
+
+  .pm1 > a 
+  {
+    text-align: center;
+    padding: 4px 15px;
+  }
+
+  .contact1
+  {
+    width: 95%;
+  }
+
+}
+
+
+
+
+@media (min-width:300px) and (max-width:500px)
+{
+  .main
+  {
+    padding: 20px 0% 50px;
+  }
+
+  .header 
+  {
+    margin-top: 0px;
+  }
+
+  header > h2 
+  {
+   
+    font-size: 1.5rem;
+  }
+
+  .nav-icons
+  {
+    width: 55%;
+  }
+
+  .nav-icons > ul > li > a > i
+{
+  font-size: 0.8rem;
+  margin-right: 2px;
+}
+
+.d-btn
+{
+  padding: 4px 6px;
+  font-size: 0.5rem;
+
+}
+
+  /* banner  */
+  .mc1
+  {
+    font-size: 1rem;
+  }
+
+  .mc2
+  {
+    margin-top: -5px;
+    font-size: 1.2rem;
+  }
+
+  h1 
+  {
+    margin-top: -8px;
+    letter-spacing: 0rem;
+    font-size: 2.5rem;
+  }
+
+  .mc3
+  {
+    font-size: 0.5rem;
+    letter-spacing: 0rem;
+    word-spacing: 0rem;
+  }
+
+  .btn-hire
+  {
+    font-size: 0.8rem;
+    width: 60%;
+    padding: 2px;
+    margin-top: 15px;
+  
+  }
+
+  .portfolio-pic
+  {
+    height: 200px;
+    width: 50%;
+   margin-top: -30px;
+  }
+
+  .pic-design
+  {
+    height: 100px;
+  }
+
+  /* navigation  */
+
+  .navigation
+  {
+    padding: 5px 3%;
+  }
+
+  .nav 
+  {
+    margin-top: -30px;
+    padding: 5px 10px;
+    display: flex;
+    flex-wrap: wrap;
+    row-gap: 20px;
+  }
+
+  .nav-items
+  {
+    margin-left: 0px;
+    margin-right: 8px;
+    padding: 10px;
+    width: 80px;
+  }
+
+  .nav-items:hover
+{
+  width: 150px;
+}
+
+  .nav-links>i 
+  {
+    margin-left: 0px;
+    font-size: 20px;
+  }
+
+  .nav-links>p 
+  {
+    font-size: 18px;
+    margin-left: 70px;
+  }
+
+  .nav-items:hover .nav-links>p
+{
+  margin-left: 10px;
+}
+
+  .nav-details
+  {
+    padding: 80px 1% 20px;
+    margin-top: 30px;
+  }
+
+  .details 
+  {
+    padding: 5px;
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .ab
+  {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .about-me, .skills, .projects
+  {
+    width: 100%;
+    padding: 12px;
+
+  }
+
+  .pm1
+  {
+    top: 60%;
+    width: 30%;
+  }
+
+  .pm1 > a 
+  {
+    text-align: center;
+    padding: 4px 15px;
+  }
+
+  .contact1
+  {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    
+  }
+
+
+  .c2 .p-detail
+  {
+    text-align: center;
+  }
+
+  .p-detail .gp
+{
+  font-size: 13px;
+  font-weight: 400;
+}
+
+}
+
+
+
+@media (max-width:300px)
+{
+  .main
+  {
+    padding: 5px 0% 50px;
+  }
+
+  .header 
+  {
+    margin-top: 0px;
+  }
+
+  header > h2 
+  {
+   
+    font-size: 0.9rem;
+  }
+
+  .nav-icons
+  {
+    width: 65%;
+  }
+
+  .nav-icons > ul > li > a > i
+{
+  font-size: 0.6rem;
+  margin-right: 2px;
+}
+
+.d-btn
+{
+  padding: 2px 4px;
+  font-size: 0.5rem;
+
+}
+
+  /* banner  */
+
+  .banner 
+  {
+    margin-top: -10px;
+  }
+
+  .mc1
+  {
+    font-size: 0.8rem;
+  }
+
+  .mc2
+  {
+    margin-top: -5px;
+    font-size: 0.9rem;
+  }
+
+  h1 
+  {
+    margin-top: -8px;
+    letter-spacing: 0rem;
+    font-size: 1.8rem;
+  }
+
+  .mc3
+  {
+    font-size: 0.4rem;
+    font-weight: 400;
+    letter-spacing: 0rem;
+    word-spacing: 0rem;
+  }
+
+  .btn-hire
+  {
+    font-size: 0.6rem;
+    width: 70%;
+    padding: 2px;
+    margin-top: 15px;
+  
+  }
+
+  .portfolio-pic
+  {
+    height: 200px;
+    width: 60%;
+   margin-top: -30px;
+  }
+
+  .pic-design
+  {
+    height: 70px;
+  }
+
+  /* navigation  */
+
+  .navigation
+  {
+    padding: 5px 3%;
+  }
+
+  .nav 
+  {
+    margin-top: -50px;
+    padding: 5px 10px;
+    display: flex;
+    flex-wrap: wrap;
+    row-gap: 10px;
+  }
+
+  .nav-items
+  {
+    margin-left: 0px;
+    margin-right: 5px;
+    padding: 10px;
+    width: 50px;
+  }
+
+  .nav-items:hover
+{
+  width: 120px;
+}
+
+  .nav-links>i 
+  {
+    margin-left: -10px;
+    font-size: 15px;
+  }
+
+  .nav-links>p 
+  {
+    font-size: 13px;
+    margin-left: 50px;
+  }
+
+  .nav-items:hover .nav-links>p
+{
+  margin-left: 10px;
+}
+
+  .nav-details
+  {
+    padding: 80px 1% 20px;
+    margin-top: 30px;
+  }
+
+  .details 
+  {
+    padding: 5px;
+    margin-top: -30px;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .ab
+  {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .about-me, .skills, .projects
+  {
+    width: 100%;
+    padding: 10px;
+
+  }
+
+  .about-me > h2
+  {
+    font-size: 20px;
+  }
+
+  .about-me >p
+  {
+    font-size: 11px;
+  }
+
+  .about-me > .e1 > .p1
+{
+  font-size: 11px;
+}
+
+.about-me > .e1 > .s1
+{
+  margin-left: 5px;
+  font-size: 10px;
+}
+
+.about-me > ul > li 
+{
+  font-size: 12px;
+}
+
+.about-me > ol > li 
+{
+  font-size: 12px;
+}
+
+
+.skills > h2
+{
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.skills > ul > li
+{
+  font-size: 12px;
+}
+
+.projects > h2
+{
+  font-size: 20px;
+}
+
+.projects > p
+{
+  font-size: 12px;
+}
+
+  .pm1
+  {
+    top: 60%;
+    width: 100%;
+  }
+
+  .pm1 > a 
+  {
+    font-size: 0.6rem;
+    text-align: center;
+    padding: 4px 1px;
+  }
+
+  .contact1
+  {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    
+  }
+
+
+  .c2 .p-detail
+  {
+    text-align: center;
+  }
+
+  .p-detail .gp
+{
+  font-size: 10px;
+  font-weight: 400;
+}
+
+  
+}
